@@ -1,1 +1,1 @@
-# NiceGUI
+# Nicegui
